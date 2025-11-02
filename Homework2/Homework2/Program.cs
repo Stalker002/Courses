@@ -1,0 +1,9 @@
+﻿namespace Homework2;
+
+internal class Program
+{
+    static void Main()
+    {
+        
+    }
+}
