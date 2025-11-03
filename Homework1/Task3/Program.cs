@@ -1,6 +1,10 @@
 ﻿namespace Task3;
 
+<<<<<<< HEAD
 internal class Program
+=======
+public class Program
+>>>>>>> 09332b6 (Add homework)
 {
     private static void Main()
     {

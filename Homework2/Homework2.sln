@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
+<<<<<<< HEAD
 VisualStudioVersion = 17.14.36623.8 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework2", "Homework2\Homework2.csproj", "{28ECE624-0E44-427F-971B-142D14DC84AD}"
+=======
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "Homework2\Task1.csproj", "{28ECE624-0E44-427F-971B-142D14DC84AD}"
+>>>>>>> 09332b6 (Add homework)
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
