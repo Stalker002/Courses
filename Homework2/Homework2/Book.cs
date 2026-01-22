@@ -15,6 +15,7 @@ internal class Book
             {
                 throw new ArgumentException();
             }
+
             _author = value;
         }
     }
