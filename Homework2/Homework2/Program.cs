@@ -10,6 +10,5 @@ internal static class Program
         Console.WriteLine($"Название: {anna.Title}, Автор: {anna.Author}, Кол-во страниц: {anna.Page}");
 
         pushkin.GetDescription();
-
     }
 }
