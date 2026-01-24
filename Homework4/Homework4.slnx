@@ -2,4 +2,8 @@
   <Project Path="Homework4/Homework4.csproj" />
   <Project Path="Task1/Task1.csproj" Id="ef4bff74-e2c9-43c3-aff5-fcc16601ade5" />
   <Project Path="Task2/Task2.csproj" Id="01ac3241-c599-48be-83f4-5da6d43b3f10" />
+  <Project Path="Task3/Task3.csproj" Id="3b59d74b-c4d9-48af-a082-f8d74380418b" />
+  <Project Path="Task4/Task4.csproj" Id="5f0ef591-4b81-4bcb-a0b8-eb0e8af62a68" />
+  <Project Path="Task5/Task5.csproj" Id="39af8636-054a-491e-8357-fb825f410e15" />
+  <Project Path="Task6/Task6.csproj" Id="13f3327a-8758-401e-a007-5bf796539be0" />
 </Solution>
